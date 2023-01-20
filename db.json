@@ -1,0 +1,30 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Full Postman course from zero"
+    },
+    {
+      "id": 2,
+      "title": "Selenium",
+      "description": "Full Selenium course from zero"
+    },
+    {
+      "id": 3,
+      "title": "Cypress",
+      "description": "Full cypress course from zero"
+    },
+    {
+      "id": 4,
+      "titile": "Appuim",
+      "descripttion": "Full Appuim course from zero"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "FirstName": "Ruwida"
+    }
+  ]
+}
