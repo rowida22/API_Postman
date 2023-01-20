@@ -17,11 +17,11 @@
     },
     {
       "id": 4,
-      "titile": "Java",
+      "title": "Java",
       "descripttion": "Full Java course from zero"
     },
     {
-      "titile": "http://localhost:3000 ",
+      "title": "http://localhost:3000 ",
       "descripttion": "Full Java course from zero",
       "id": 5
     }
