@@ -16,14 +16,14 @@
       "description": "Full cypress course from zero"
     },
     {
-      "id": 4,
-      "title": "Java",
-      "descripttion": "Full Java course from zero"
+      "title": "R",
+      "descripttion": "Full R course from zero",
+      "id": 5
     },
     {
-      "title": "http://localhost:3000 ",
-      "descripttion": "Full Java course from zero",
-      "id": 5
+      "title": "Automation",
+      "descripttion": "Full Automation course from zero",
+      "id": 6
     }
   ],
   "user": [
