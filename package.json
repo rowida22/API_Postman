@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rowida22/API_Postman/issues"
   },
-  "homepage": "https://github.com/rowida22/API_Postman#readme"
+  "homepage": "https://github.com/rowida22/API_Postman#readme",
+  "devDependencies": {
+    "json-server-auth": "^2.1.0"
+  }
 }
