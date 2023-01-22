@@ -24,12 +24,38 @@
       "title": "Automation",
       "descripttion": "Full Automation course from zero",
       "id": 6
+    },
+    {
+      "title": "C++",
+      "descripttion": "Full C++ course from zero",
+      "id": 7
+    },
+    {
+      "title": "C++",
+      "descripttion": "Full C++ course from zero",
+      "id": 8
     }
   ],
-  "user": [
+  "users": [
     {
-      "id": 1,
-      "FirstName": "Ruwida"
+      "email": "olivier@mail.com",
+      "password": "$2a$10$LqQn8jPmmCsmh9wC.rBIfuGQflnNli9dhGnfU/y9q6eaRPZNxSXTS",
+      "id": 1
+    },
+    {
+      "email": "blahblah@mail.com",
+      "password": "$2a$10$zNwNSXxGMH9MDlkwXQ8r8eSWKVy807hGI9jwGFOztGa7wU4hn9PRK",
+      "id": 2
+    },
+    {
+      "email": "test1@mail.com",
+      "password": "$2a$10$lJiLmHyNmBPrX6QqtUhwEe8MhTiDONDNalgJpF1qd/KxYD3yKKY82",
+      "id": 3
+    },
+    {
+      "email": "test2@mail.com",
+      "password": "$2a$10$y2ttvAvNqVJ03Xfn9iq7sO/p8C9.ljXsWsestNlLg.vDL9h8cEEmm",
+      "id": 4
     }
   ]
 }
